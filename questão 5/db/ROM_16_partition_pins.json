@@ -1,0 +1,81 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "INSTRUCTION[1]",
+					"strict" : false
+				},
+				{
+					"name" : "INSTRUCTION[2]",
+					"strict" : false
+				},
+				{
+					"name" : "INSTRUCTION[3]",
+					"strict" : false
+				},
+				{
+					"name" : "INSTRUCTION[5]",
+					"strict" : false
+				},
+				{
+					"name" : "INSTRUCTION[6]",
+					"strict" : false
+				},
+				{
+					"name" : "INSTRUCTION[7]",
+					"strict" : false
+				},
+				{
+					"name" : "INSTRUCTION[8]",
+					"strict" : false
+				},
+				{
+					"name" : "INSTRUCTION[9]",
+					"strict" : false
+				},
+				{
+					"name" : "INSTRUCTION[10]",
+					"strict" : false
+				},
+				{
+					"name" : "INSTRUCTION[11]",
+					"strict" : false
+				},
+				{
+					"name" : "INSTRUCTION[12]",
+					"strict" : false
+				},
+				{
+					"name" : "INSTRUCTION[13]",
+					"strict" : false
+				},
+				{
+					"name" : "INSTRUCTION[14]",
+					"strict" : false
+				},
+				{
+					"name" : "INSTRUCTION[15]",
+					"strict" : false
+				},
+				{
+					"name" : "PC_address[0]",
+					"strict" : false
+				},
+				{
+					"name" : "PC_address[1]",
+					"strict" : false
+				},
+				{
+					"name" : "PC_address[2]",
+					"strict" : false
+				},
+				{
+					"name" : "PC_address[3]",
+					"strict" : false
+				}
+			]
+		}
+	]
+}
