@@ -21,7 +21,7 @@ end Multiplex_4in;
 architecture behavior of Multiplex_4in is
 	signal temp: std_logic;
 begin
-	process(S0,S1,A,B,c,D)
+	process(S0,S1,A,B,C,D)
 	begin
 		if(S0='0' and S1='0') then temp <= A;
 		elsif(S0='0' and S1='1') then temp <= B;
