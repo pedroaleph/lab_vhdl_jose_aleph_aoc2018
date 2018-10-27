@@ -1,0 +1,16 @@
+library ieee;
+use ieee.std_logic_1164.all;
+
+entity EXT8_16 is
+    Port (
+			A : IN STD_LOGIC_VECTOR (7 downto 0);
+			B : OUT STD_LOGIC_VECTOR (15 downto 0));
+end EXT8_16;
+
+architecture behavior of EXT8_16 is
+
+	begin
+	
+		B <= "00000000" & A;
+	
+end behavior;
